@@ -1,0 +1,32 @@
+div{
+background-color: teal;
+    
+    
+}
+li{
+
+    text-decoration: tomato;
+    display: inline-flex;
+
+margin: inherit;
+}
+ul{
+    word-spacing: 80px;
+    text-align: center;
+}
+h3{
+    color:teal;
+  
+    background-attachment: fixed;
+    padding: 250px;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+body{
+    background-color: rgba(red, green, blue, alpha);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
